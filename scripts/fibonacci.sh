@@ -4,7 +4,7 @@ N=${1:-10}
 a=0
 b=1
 
-echo "The Fibonacci series ist : "
+echo "The Fibonacci series is : "
 
 for (( i=0; i<N; i++ ))
 do
